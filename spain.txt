@@ -1,4 +1,4 @@
-﻿01;Andalucía
+01;ANDALUCIA
 02;Aragón
 03;Principado de Asturias
 04;Islas Baleares
