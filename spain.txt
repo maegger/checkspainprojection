@@ -1,19 +1,17 @@
 01;ANDALUCIA
-02;Aragón
-03;Principado de Asturias
-04;Islas Baleares
-05;Canarias
-06;Cantabria
-07;Castilla y León
-08;Castilla - La Mancha
-09;Cataluña
-10;Comunidad Valenciana
-11;Extremadura
-12;Galicia
-13;Comunidad de Madrid
-14;Región de Murcia
-15;Comunidad Foral de Navarra
-16;País Vasco
-17;La Rioja
-18;Ceuta
-19;Melilla
+02;ARAGON
+03;ASTURIAS
+06;CANTABRIA
+08;CASTILLA-LA MANCHA
+07;CASTILLA-LEON
+09;CATALUÑA
+13;COMUNIDAD DE MADRID
+10;COMUNIDAD VALENCIANA
+11;EXTREMADURA
+12;GALICIA
+04;ISLAS BALEARES
+14;MURCIA
+15;NAVARRA
+16;PAIS VASCO
+17;LA RIOJA
+05;ISLAS CANARIAS
